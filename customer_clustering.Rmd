@@ -1,6 +1,6 @@
 ---
-title: "Segmentação de lientes com base em Perfil de Compras"
-output: html_notebook
+title: "Segmentação de Clientes por Perfil de Compras"
+output: github_document
 ---
 
 
@@ -13,6 +13,7 @@ library(ggplot2)
 library(stringr)
 library(factoextra)
 library(FactoMineR)
+library(ggthemes)
 ```
 
 
